@@ -1,0 +1,42 @@
+
+    h1{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 24px;
+        color: red;
+    
+    }
+    body#corpo{
+        font-size: 10px;
+        color: white;
+        background-color: rgb(80, 80, 245);
+    }
+    h2{
+        font-size: 18px;
+        color: red;
+    }
+    h3{
+        font-size: 14px;
+        color: red;
+    }
+   i{
+    color: cyan;
+   }
+.primeiro-elemento p:first-child{
+    color: green;
+    font-weight: bold;
+}
+   td#tabela{
+    color: red;
+   }
+   div#sec2{
+    background-color: blueviolet;
+   }
+   div#sec3{
+    background-color: darkgreen;
+   }
+   div#sec31{
+    background-color: green;
+   }
+   div#sec32{
+    background-color: violet;
+   }

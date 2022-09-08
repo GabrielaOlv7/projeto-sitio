@@ -1,0 +1,22 @@
+a:link{
+    font-size: 10px;
+    text-decoration: none;
+    color: yellow;
+    background-color: gray;
+}
+a:visited{
+    text-decoration: none;
+    color: pink;
+    background-color: gray;
+}
+a:hover{
+    text-decoration: underline;
+    color:yellow; 
+    background-color: transparent
+}
+a:active{
+    font-weight: 800;
+    text-decoration: underline;
+    color: black;
+    background-color:transparent
+}
